@@ -1,0 +1,17 @@
+body {background-color: grey;}
+
+header { position:absolute; top: 50px; left: 10px; width: 700px; height: 50px; background-color: lightgrey; border-radius: 10px; box-shadow: 5px 5px 5px black;}
+
+header2 { position: absolute; top: 325px; left: 10px; width: 200px; height: 300px; background-color: lightgrey; border-radius: 10px; box-shadow: 5px 5px 5px black;} 
+
+.shape3 { position: absolute; top: 188px; left: 20px; width: 680px; height: 10px; background-color: lightgrey; border-radius: 10px; box-shadow: 5px 5px 5px black; }
+
+.shape1 { position: absolute; top: 120px; left: 10px; width: 700px; height: 50px; background-color: lightgrey; border-radius: 10px; box-shadow: 5px 5px 5px black; }
+
+
+
+li {  display: inline-block; width: 128px; height: 40px; font-family: helvetica; color: black; top: 50px;}
+
+li:hover { color: red;}
+
+.name { position: absolute; left: 280px; top: 120px; color: black; font-family: helvetica; max-width: 148px; min-width: 148px; }
